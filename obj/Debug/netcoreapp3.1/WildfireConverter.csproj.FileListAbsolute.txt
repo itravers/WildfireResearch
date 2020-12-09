@@ -1,0 +1,15 @@
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\bin\Debug\netcoreapp3.1\WildfireConverter.exe
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.csprojAssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.AssemblyInfoInputs.cache
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.AssemblyInfo.cs
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\bin\Debug\netcoreapp3.1\WildfireConverter.deps.json
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\bin\Debug\netcoreapp3.1\WildfireConverter.runtimeconfig.json
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\bin\Debug\netcoreapp3.1\WildfireConverter.runtimeconfig.dev.json
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\bin\Debug\netcoreapp3.1\WildfireConverter.dll
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\bin\Debug\netcoreapp3.1\WildfireConverter.pdb
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.csproj.CopyComplete
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.dll
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.pdb
+C:\Users\isaac\OneDrive\Desktop\Workspace\WildfireConverter\obj\Debug\netcoreapp3.1\WildfireConverter.genruntimeconfig.cache

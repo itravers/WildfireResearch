@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EA9k8eRpa0/sIGGL69kTpy6GWfe9Y1W+478QMfeGmQFo+iOGKegcTKSJTMg4YGuwRVrHgCSR3pcRvgBeGxoJcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isaac\\OneDrive\\Desktop\\Workspace\\WildfireConverter\\WildfireConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isaac\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
