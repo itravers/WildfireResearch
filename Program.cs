@@ -34,7 +34,7 @@ namespace WildfireConverter
             //string[] lines;
 
             List<String> lines = new List<string>();
-            lines.Add("IncidentName,GISAcres,AVGLat, AVGLong");
+            lines.Add("IncidentName,GISAcres,AVGLong, AVGLat");
             
 
             //now we loop through each feature
@@ -73,7 +73,7 @@ namespace WildfireConverter
 
                 lines.Add(incidentName + "," + GISAcres + "," + avgCoordinates.Y + "," + avgCoordinates.X);
 
-                Console.WriteLine(incidentName + " : " + GISAcres + " Acres, " + "Avg Lat: " + avgCoordinates.Y + " Avg Long: " + avgCoordinates.X );
+                Console.WriteLine(incidentName + " : " + GISAcres + " Acres, " + "Avg Long: " + avgCoordinates.Y + " Avg Lat: " + avgCoordinates.X );
             }
 
 
